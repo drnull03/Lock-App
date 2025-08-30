@@ -1,0 +1,5 @@
+*.keystore
+bin/
+obj/
+**R.java
+*idsig
